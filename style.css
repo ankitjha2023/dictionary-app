@@ -1,0 +1,17 @@
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    position: relative;
+}
+.fa-music{
+    position: absolute;
+    bottom: 0;
+    margin: 20px;
+    right: 0;
+    display: none;
+}
